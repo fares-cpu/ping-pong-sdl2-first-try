@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "Knightu",
+        "SDLK",
+        "struct"
+    ],
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "cstdint": "cpp",
+        "new": "cpp",
+        "cmath": "cpp",
+        "*.tcc": "cpp",
+        "random": "cpp",
+        "numbers": "cpp"
+    }
+}

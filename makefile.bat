@@ -1,0 +1,1 @@
+g++ main.cpp -o main.exe -I C:\Users\knightu-sama\Desktop\cpp\lib\SDL2-2.30.1\x86_64-w64-mingw32\include\SDL2 -L C:\Users\knightu-sama\Desktop\cpp\lib\SDL2-2.30.1\x86_64-w64-mingw32\lib -lmingw32 -lSDL2main -lSDL2

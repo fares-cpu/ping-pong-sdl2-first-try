@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/lib/allegro-mingw-4.2.2/include",
+                "C:/Users/knightu-sama/Desktop/cpp/lib/SDL2-2.30.1/x86_64-w64-mingw32/include/SDL2"
+        
+            ],
+            "defines": [],
+            "compilerPath": "g++",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
